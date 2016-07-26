@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectFinal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_news1">news1</string>
+    <string name="title_activity_views1">views1</string>
+    <string name="title_activity_hist1">hist1</string>
+    <string name="title_activity_news2">news2</string>
+    <string name="title_activity_new3">new3</string>
+    <string name="title_activity_sms_class">SmsClass</string>
+    <string name="title_activity_modify">Modify</string>
+    <string name="title_activity_spl_day">SplDay</string>
+    <string name="title_activity_spl_date">SplDate</string>
+</resources>
